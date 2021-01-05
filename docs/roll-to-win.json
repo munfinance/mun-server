@@ -1,0 +1,6 @@
+{
+  "name": "Roll to Win",
+  "description": "A limited-edition Ymoon mineral card asset",
+  "image": "https://ymoonfinance.github.io/mun-server/imgs/roll-to-win.png",
+  "attributes": ["rare"]
+}

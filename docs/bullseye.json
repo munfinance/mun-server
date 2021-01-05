@@ -1,0 +1,6 @@
+{
+  "name": "Bullseye",
+  "description": "A limited-edition Ymoon mineral card asset",
+  "image": "https://ymoonfinance.github.io/mun-server/imgs/bullseye.png",
+  "attributes": ["common"]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Maximum Bet",
+  "description": "A limited-edition Ymoon mineral card asset",
+  "image": "https://ymoonfinance.github.io/mun-server/imgs/maximum-bet.png",
+  "attributes": ["common"]
+}
