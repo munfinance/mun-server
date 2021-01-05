@@ -1,6 +1,6 @@
 {
   "name": "Lucky Ball",
-  "description": "A limited-edition Ymoon mineral card asset",
-  "image": "https://ymoonfinance.github.io/mun-server/imgs/lucky-ball.png",
+  "description": "A limited-edition MUN mineral card asset",
+  "image": "https://munfinance.github.io/mun-server/imgs/lucky-ball.png",
   "attributes": ["common"]
 }

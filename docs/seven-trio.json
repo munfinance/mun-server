@@ -1,6 +1,6 @@
 {
   "name": "Seven Trio",
-  "description": "A limited-edition Ymoon mineral card asset",
-  "image": "https://ymoonfinance.github.io/mun-server/imgs/seven-trio.png",
+  "description": "A limited-edition MUN mineral card asset",
+  "image": "https://munfinance.github.io/mun-server/imgs/seven-trio.png",
   "attributes": ["ultra rare"]
 }
